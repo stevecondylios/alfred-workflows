@@ -64,7 +64,7 @@
 				<key>spaces</key>
 				<string></string>
 				<key>url</key>
-				<string>https://chatgpt.com/?q={query}</string>
+				<string>https://chatgpt.com/?q={query}&amp;model=gpt-4o</string>
 			</dict>
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
@@ -177,7 +177,7 @@
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string>1.0.1</string>
+	<string>1.0.2</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
